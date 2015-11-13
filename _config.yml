@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "https://localhost:4000"
+url: ""
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -21,10 +21,10 @@ force-https: True
 #############
 
 author: "Q.s roseushu"
-lang: "en"
+lang: "zh-CN"
 title: "Q.s roseushu"
 favicon: "/img/favicon.ico"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "Blog and website of roseushu, blogging mainly for tech. Opinions expressed are mine."
 keywords: "personal, jekyll, theme"
 
 ################
@@ -63,7 +63,7 @@ twitter-share: True
 reddit-share: True
 google-plus-share: True
 linkedin-share: True
-disqus-shortname: "panossakkos"
+disqus-shortname: "roseushu"
 
 ###############
 # Life Events #
@@ -96,7 +96,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/Roseushu"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
