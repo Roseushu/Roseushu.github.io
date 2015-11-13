@@ -47,8 +47,8 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "外表逗比，内心高冷."
+  - text: "知乎真的欠我一个女盆友o(￣ヘ￣*o) "
 
 ########
 # Blog #
